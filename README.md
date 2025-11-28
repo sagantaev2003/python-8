@@ -105,6 +105,15 @@
 
 <img width="1426" height="746" alt="image" src="https://github.com/user-attachments/assets/77183d74-dd42-48f2-b677-4de51be746cb" />
 
+<img width="804" height="631" alt="image" src="https://github.com/user-attachments/assets/2b3b6cce-24a7-4ff8-991b-92b2d63b12a1" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/0c43aae0-69e1-4819-8ac6-36856514c0a9" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/dd07759b-1a66-467d-b392-5f9815b875a8" />
+
+## Видео-демо 
+### Работы программы  - 
+### Генерации 100 квестов - 
 
 
 
