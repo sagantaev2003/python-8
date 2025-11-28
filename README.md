@@ -48,4 +48,4 @@
 ### Структура папки
 <img width="484" height="485" alt="image" src="https://github.com/user-attachments/assets/6d7e4910-63b4-4704-a338-6b1f9df87d22" />
 
-
+### Результат
