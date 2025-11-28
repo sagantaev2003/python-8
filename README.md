@@ -54,4 +54,14 @@
 
 **Поэтому я сделал стресс-тест в отдельном файле**
 
+<img width="810" height="632" alt="image" src="https://github.com/user-attachments/assets/4c042099-d173-40c3-939c-f9544d31ff00" />
+
+<img width="810" height="632" alt="image" src="https://github.com/user-attachments/assets/bf1564fc-001f-4bd8-92d4-374851ea96f3" />
+
+<img width="308" height="125" alt="image" src="https://github.com/user-attachments/assets/d7b955b5-f7fe-4c60-b541-f2520c9c0235" />
+
+
+
+
+
 
