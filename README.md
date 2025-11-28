@@ -112,8 +112,8 @@
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/dd07759b-1a66-467d-b392-5f9815b875a8" />
 
 ## Видео-демо 
-### Работы программы  - 
-### Генерации 100 квестов в отдельном файле - 
+### Работы программы  -  https://youtu.be/q3b2nkiJq6E
+### Генерации 100 квестов в отдельном файле - https://youtu.be/ysrL6Us65YA
 
 
 
