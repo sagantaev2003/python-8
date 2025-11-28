@@ -46,28 +46,6 @@
 - Используется SQLite, реализована через модуль core/database.py.
 
 ### Структура папки
-PythonV8/
-│
-├── core/
-│   ├── database.py
-│   ├── template_engine.py
-│   ├── gamification.py
-|   |── templates/
-│       ├── royal_decree.html
-│       ├── guild_contract.html
-│       ├── ancient_scroll.html
-├── gui/
-│   ├── quest_wizard.py
-│   ├── map_editor.py
-│
-├── parchments/
-│   ├── maps/
-│       ├── (Здесь будет сохраняться изображения из редактора карты)
-│   
-├── tests/
-│   ├── test_boss_fight.py
-│
-├── requirements.txt
-└── main.py
-└── __init__
+<img width="484" height="485" alt="image" src="https://github.com/user-attachments/assets/6d7e4910-63b4-4704-a338-6b1f9df87d22" />
+
 
